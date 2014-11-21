@@ -1,3 +1,6 @@
 [submodule "cleveland-audobon.com/public_html/core"]
 	path = cleveland-audobon.com/public_html/core
 	url = git://github.com/WordPress/WordPress.git
+[submodule "cleveland-audubon.com/public_html/core"]
+	path = cleveland-audubon.com/public_html/core
+	url = git@github.com:WordPress/WordPress.git
